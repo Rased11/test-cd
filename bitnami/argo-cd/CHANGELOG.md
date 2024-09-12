@@ -255,6 +255,7 @@
 * [bitnami/argo-cd] fix: :bug: :lock: Expose metrics port in deployment definition (#25043) ([8e2e712](https://github.com/bitnami/charts/commit/8e2e712c9d897293b00914657b0dc18984f91d51)), closes [#25043](https://github.com/bitnami/charts/issues/25043)
 * [bitnami/argo-cd] Increase controller resource presets (#25105) ([3e9ec6f](https://github.com/bitnami/charts/commit/3e9ec6fa85cb39d02031be0fc153e9a36e4e1c64)), closes [#25105](https://github.com/bitnami/charts/issues/25105)
 
+
 ## <small>6.0.7 (2024-04-10)</small>
 
 * [bitnami/argo-cd]: fixing creation of service monitors (#25046) ([79e4670](https://github.com/bitnami/charts/commit/79e46701f710b8c1126f2c40850ea7f33f5e8101)), closes [#25046](https://github.com/bitnami/charts/issues/25046)
